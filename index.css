@@ -29,7 +29,7 @@ body{
 }
 .background{
     width:400px;
-    background-image: url('..\\images\\bg-pattern-desktop.svg');
+    background-image: url('..\\FAQ-accordion-card\\images\\bg-pattern-desktop.svg');
     height:540px;
     background-position-x: right;
     background-position-y: 70%;
@@ -43,7 +43,7 @@ body{
     width:400px;
     height:359px;
     z-index:1;
-    background-image: url('..\\images\\illustration-woman-online-desktop.svg');
+    background-image: url('..\\FAQ-accordion-card\\images\\illustration-woman-online-desktop.svg');
    
     position: absolute;
     background-position-x: right;
@@ -55,4 +55,57 @@ body{
     left:-90px;
     position:relative;
     top:130px;
+ }
+ .second{
+    width:900px;
+    height:540px;
+    left:380px;
+ }
+ .head{
+    width:65px;
+    height:50px;
+    left:840px;
+    position:absolute;
+    top:23%;
+ }
+ .head h1{
+    font-family: 'Kumbh Sans', sans-serif;
+    font-size:35px;
+ }
+ .content{
+    width:400px;
+    height:385px;
+    position:absolute;
+    left:800px;
+    top:39%;
+    
+
+ }
+ .q1{
+    padding-top: 0%;
+    left:40px;
+    position:absolute;
+ }
+ p{
+    font-size: 12px;
+    font-weight:400, 700;
+    font-family: 'Kumbh Sans', sans-serif;
+ }
+
+ .hide{
+   
+    display:none;
+ }
+ hr{
+    color: hsl(240, 5%, 91%);
+    width:320px;
+    margin-inline-end: 0px;
+    margin-block-start: 0px;
+    margin-inline-start: 0%;
+ }
+ .q2{
+    padding-top: 0%;
+    left:40px;
+    position:relative;
+    top:70px;
  }
