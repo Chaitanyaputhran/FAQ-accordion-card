@@ -88,6 +88,31 @@ body{
     position:absolute;
   
  }
+ .q1.active p {
+   color:hsl(237, 12%, 33%);
+   font-weight: bolder;
+   font-size: 14px;
+ }
+ .q2.active p {
+   color:hsl(237, 12%, 33%);
+   font-weight: bolder;
+   font-size: 14px;
+ }
+ .q3.active p {
+   color:hsl(237, 12%, 33%);
+   font-weight: bolder;
+   font-size: 14px;
+ }
+ .q4.active p {
+   color:hsl(237, 12%, 33%);
+   font-weight: bolder;
+   font-size: 14px;
+ }
+ .q5.active p {
+   color:hsl(237, 12%, 33%);
+   font-weight: bolder;
+   font-size: 14px;
+ }
  p{
     font-size: 14px;
     font-weight:400, 700;
@@ -95,7 +120,7 @@ body{
     color:hsl(240, 6%, 50%);
  }
  p:hover{
-   color: hsl(238, 29%, 16%);
+   color:hsl(14, 88%, 65%);
    font-weight: bold;
  }
 
