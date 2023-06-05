@@ -1,3 +1,4 @@
+@media (min-width:375px){
 body{
     width:1440px;
     height:745px;
@@ -94,7 +95,8 @@ body{
     color:hsl(240, 6%, 50%);
  }
  p:hover{
-   color: hsl(14, 88%, 65%);
+   color: hsl(238, 29%, 16%);
+   font-weight: bold;
  }
 
  .hide{
@@ -133,32 +135,59 @@ body{
    top:50px;
 }
 .b1{
-   height:10px;
+   height:8px;
    width:10px;
    display: inline-block;
+   background-image: url('..\\images\\icon-arrow-down.svg');
+   background-repeat: no-repeat;
+   border: 0px;
 
 }
 .b2{
-   height:10px;
+   height:8px;
    width:10px;
    display: inline-block;
+   background-image: url('..\\images\\icon-arrow-down.svg');
+   background-repeat: no-repeat;
+   border: 0px;
 
 }
 .b3{
-   height:10px;
+   height:8px;
    width:10px;
    display: inline-block;
+   background-image: url('..\\images\\icon-arrow-down.svg');
+   background-repeat: no-repeat;
+   border: 0px;
 
 }
 .b4{
-   height:10px;
+   height:8px;
    width:10px;
    display: inline-block;
+   background-image: url('..\\images\\icon-arrow-down.svg');
+   background-repeat: no-repeat;
+   border: 0px;
 
 }
 .b5{
-   height:10px;
+   height:8px;
    width:10px;
    display: inline-block;
+   background-image: url('..\\images\\icon-arrow-down.svg');
+   background-repeat: no-repeat;
+   border: 0px;
 
+}
+}
+@media(max-width:375px){
+   body{
+      width:375px;
+      height:745px;
+      background-image:linear-gradient( hsl(240, 73%, 65%),hsl(273, 75%, 66%));
+      position: relative;
+      margin:0px;
+      z-index:3;
+  }
+   
 }
