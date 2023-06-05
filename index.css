@@ -1,14 +1,18 @@
 body{
     width:1440px;
-    height:690px;
+    height:745px;
     background-image:linear-gradient( hsl(240, 73%, 65%),hsl(273, 75%, 66%));
+    position: relative;
     margin:0px;
+    z-index:3;
 }
 .main{
     width:1440px;
+    z-index:3;
+    position: relative;
    
-    background-image:linear-gradient( hsl(240, 73%, 65%),hsl(273, 75%, 66%));
-    padding-top: 95px;
+   padding-top:100px;
+ 
 
 }
 .container{
@@ -24,23 +28,31 @@ body{
     
 }
 .background{
-    width:380px;
+    width:400px;
     background-image: url('D:\\challenge2\\images\\bg-pattern-desktop.svg');
     height:540px;
     background-position-x: right;
     background-position-y: 70%;
     
 }
-.image{
-    padding-top: 20%;
-    left:-25%;
-    position: relative;
-}
-.image img {
-    
-  
-
-    padding-left:10px;
-    
+.image {
    
-}
+    left: 22.9%;
+    top:25%;
+   
+    width:400px;
+    height:359px;
+    z-index:1;
+    background-image: url('D:\\challenge2\\images\\illustration-woman-online-desktop.svg');
+   
+    position: absolute;
+    background-position-x: right;
+    
+    background-repeat: no-repeat;
+  }
+ img{
+    
+    left:-90px;
+    position:relative;
+    top:130px;
+ }
