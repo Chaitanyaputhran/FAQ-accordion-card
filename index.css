@@ -1,0 +1,46 @@
+body{
+    width:1440px;
+    height:690px;
+    background-image:linear-gradient( hsl(240, 73%, 65%),hsl(273, 75%, 66%));
+    margin:0px;
+}
+.main{
+    width:1440px;
+   
+    background-image:linear-gradient( hsl(240, 73%, 65%),hsl(273, 75%, 66%));
+    padding-top: 95px;
+
+}
+.container{
+    width:900px;
+    height:540px;
+    background-color: white;
+    margin-left:330px;
+    border-radius: 20px;
+}
+.first{
+    width:380px;
+    height:540px;
+    
+}
+.background{
+    width:380px;
+    background-image: url('D:\\challenge2\\images\\bg-pattern-desktop.svg');
+    height:540px;
+    background-position-x: right;
+    background-position-y: 70%;
+    
+}
+.image{
+    padding-top: 20%;
+    left:-25%;
+    position: relative;
+}
+.image img {
+    
+  
+
+    padding-left:10px;
+    
+   
+}
