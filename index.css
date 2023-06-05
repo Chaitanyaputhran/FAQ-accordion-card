@@ -29,7 +29,7 @@ body{
 }
 .background{
     width:400px;
-    background-image: url('D:\\challenge2\\images\\bg-pattern-desktop.svg');
+    background-image: url('D:\\FAQ-accordion-card\\images\\bg-pattern-desktop.svg');
     height:540px;
     background-position-x: right;
     background-position-y: 70%;
@@ -43,7 +43,7 @@ body{
     width:400px;
     height:359px;
     z-index:1;
-    background-image: url('D:\\challenge2\\images\\illustration-woman-online-desktop.svg');
+    background-image: url('D:\\FAQ-accordion-card\\images\\illustration-woman-online-desktop.svg');
    
     position: absolute;
     background-position-x: right;
