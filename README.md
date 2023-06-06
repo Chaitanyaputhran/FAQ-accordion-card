@@ -8,4 +8,4 @@ This is a solution to the [FAQ accordion card challenge on Frontend Mentor](http
 
 
 
-![](./design/s1.png)
+![](./solution/s1.png)
