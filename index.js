@@ -24,11 +24,13 @@ const change1 = () => {
   if (q1answer.classList.contains("hide")) {
     q1answer.classList.remove("hide");
     q1.classList.add("active");
+   
     
   }
   else{
   q1answer.classList.add("hide");
   q1.classList.remove("active"); 
+  
 
   }
 };
