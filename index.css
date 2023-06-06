@@ -232,7 +232,7 @@ body{
    background-color: white;
    margin-left:25px;
    border-radius: 20px;
-   top:100%;
+   margin-top:50px;
    position:relative;
 }
 .image {
