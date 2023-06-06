@@ -264,17 +264,17 @@ body{
    top:18%;
 }
 .content{
-   width:270px;
+   width:290px;
    height:350px;
    position:absolute;
-   left:20px;
-   top:28%;
+   left:10px;
+   top:35%;
    
 
 }
 .q1{
    padding-top: 0%;
-   left:20px;
+   left:10px;
    position:absolute;
  
 }
@@ -320,32 +320,32 @@ p:hover{
 }
 hr{
    color: hsl(240, 5%, 91%);
-   width:320px;
+   width:260px;
    margin-inline-end: 0px;
    margin-block-start: 0px;
    margin-inline-start: 0%;
 }
 .q2{
    padding-top: 0%;
-   left:20px;
+   left:10px;
    position:relative;
    top:50px;
 }
 .q3{
   padding-top: 0%;
-  left:20px;
+  left:10px;
   position:relative;
   top:50px;
 }
 .q4{
   padding-top: 0%;
-  left:20px;
+  left:10px;
   position:relative;
   top:50px;
 }
 .q5{
   padding-top: 0%;
-  left:20px;
+  left:10px;
   position:relative;
   top:50px;
 }
