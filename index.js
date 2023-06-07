@@ -1,8 +1,3 @@
-const q1=document.querySelector(".q1");
-const q2=document.querySelector(".q2");
-const q3=document.querySelector(".q3");
-const q4=document.querySelector(".q4");
-const q5=document.querySelector(".q5");
 const q1answer = document.querySelector(".q1-ans");
 const q2answer = document.querySelector(".q2-ans");
 const q3answer = document.querySelector(".q3-ans");
