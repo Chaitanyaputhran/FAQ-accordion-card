@@ -9,3 +9,4 @@ This is a solution to the [FAQ accordion card challenge on Frontend Mentor](http
 
 
 ![](./solution/s1.png)
+![](./solution/s2.png)
