@@ -9,4 +9,9 @@ This is a solution to the [FAQ accordion card challenge on Frontend Mentor](http
 
 
 ![](./solution/s1.png)
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Javascript
 
